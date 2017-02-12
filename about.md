@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Martynas Rimšelis. I'm a software developer. I do stuff. This is my page.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+### Experience
+
+* BS in Computer Engineering @ [VU](http://www.vu.lt)
+* Webmaster @ [VU](http://www.vu.lt)
+* Java dev @ Blue Bridge Code
+* Web crawler dev @ Infare VNO
+* Analyst & dev @ [FICO](http://www.fico.com)
+* JavaScript engineer @ [TransferGo](http://www.transfergo.com)
+
+
+### Contact me
+
+[rimselis@gmail.com](mailto:rimselis@gmail.com)
