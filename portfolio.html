@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+test
+<div class="portfolio">
+  {% for portfolio-item in site.categories.portfolio %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ portfolio-item.url }}">{{ portfolio-item.title }}</a></h1>
+
+      <div class="entry">
+        {{ portfolio-item.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ portfolio-item.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
