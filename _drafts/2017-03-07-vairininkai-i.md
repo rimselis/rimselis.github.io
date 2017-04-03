@@ -3,9 +3,27 @@ layout: page
 title: II-os eilės vairininkų kursai (I-oji paskaita)
 categories: sailing
 tags: sailing learning lt
+excerpt_separator: <!-- more -->
 ---
 
+## Programos reikalavimai (pagal LBS)
 
+
+testing
+
+
+testing 
+<!-- more -->
+
+#### Jachtos įranga (iki 35 m2 buringumo) – 5 val.
+
+Sportinis burlaivis. Kilinė jachta. Burvaltė. Kompromisas. Katamaranas. Burlentė. Lenktyninė, kreiserinė ir turistinė jachta.
+Korpuso dalis – nosis, pirmagalis ir paskuigalis (korma), paskuigalio lenta, dešinys ir kairys bortas, dugnas. Denis. Jo dalys – bakas ir jutas. Kokpitas. Liukai. Anstatas. Anstato denis. Patalpos kajutė, forpikas, achterpikas, triumai.
+Korpuso konstrukcijos elementai – kilis, forštevnis, achterštevnis, špantai (špangautai), stingeriai, bimsai, pusbimsiai, florai, knicos, prisišliejimo sijos (vaterveisai), komingai, karlingsai, pilersai, trancas, deidvudas. Korpuso ir denio danga.
+Vairas. Jo dalys ir įranga. Švertas. Šverto šulinys. Švertalės. Vienstiebės jachtos – keto ir šliupo įranga ir terminai. Rangautas – stiebas, gikas, gafelis, spinakerio gikas. Takelažas. Pastovus takelažas – štagai, vantai, bakštagai. Judrus takelažas – falai, šotai, brasai, topenantės ir atotampos. Burės – pagrindinės, papildomos, audros. Grotas, stakselis, spinakeris, triselis, audros stakselis. Gafelinis, šprinto ir bermudinis burių tipas.
+Burės. Juostos ir siūlės burėse. Netikros siūlės. Burės kampų ir kraštų pavadinimai. Antsiuvai (boutai). Liktrosas. Bulinis. Liuversai. Krengelsai. Halsai. Šotas. Benzelis. Falinė lentelė. Falas. Burės kupra ir gylis. Balanos (latės). Balanų dėklai (kišenės). Rifavimo juostos (rifbantai). Rifavimo raiščiai (rifštertai).
+Burės tvirtinimo prie rangauto ir štangų būdai; pririšimas (slablinis) žiedai (segarsai), raiteliai šliaužiantys bėgeliu, pazas, kabės (raksai), segės (karabinai). Takelažo detalės: jungė (šekelis), skridinys (blokas), skrysčiai, sąvarža (španeris, talrepas), klampė, fiksatorius (stoporas).
+Jachtos aprūpinimas – pludrumą garantuojančios priemonės, individuali gelbėjimo priemonė, semtuvas, irklas, inkaras.
 
 ### Jachtos konstrukcija ir burlaivio teorijos pagrindai
 
